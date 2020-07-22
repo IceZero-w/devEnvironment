@@ -1,0 +1,37 @@
+1、浏览器
+	1）谷歌浏览器（https://www.google.cn/chrome/）
+	2）谷歌浏览器插件vue-devtool（https://www.jianshu.com/p/312cd88f5bdf）
+
+2、终端
+	1）iTerm2（https://www.iterm2.com/）
+	2）iTerm2操作界面美化教程（https://github.com/sirius1024/iterm2-with-oh-my-zsh）
+
+3、开发环境
+	1）git（直接appStore安装xCode）
+	2）node、npm（https://nodejs.org/en/）
+	3）node版本管理器nvm安装教程（https://segmentfault.com/a/1190000017881215）
+	4）npm镜像源管理nrm安装教程（nrm安装教程：https://www.jianshu.com/p/da500a64b83c）
+
+4、开发工具
+	1）visual studio code（https://code.visualstudio.com/）
+	2）vscode插件安装集锦：
+		Auto Close Tag
+		Beautify、Chinese (Simplified) Language Pack for Visual Studio Code
+		Beautify css/sass/scss/less
+		Color Highlight
+		Debugger for Chrome
+		ESLint、File Peek
+		file-icons
+		GitLens — Git supercharged
+		HTML CSS Support
+		HTML Snippets
+		Markdown Preview Enhanced
+		Prettier - Code formatter
+		Prettier ESLint
+		TabNine
+		Vetur
+		Vue VSCode Snippets
+
+5、其他mac办公软件(破解版软件下载https://xclient.info/		本站所有dmg、zip 打开密码均为 xclient.info)
+	1）xmind
+	2）WPS_office
