@@ -31,6 +31,7 @@
 		TabNine
 		Vetur
 		Vue VSCode Snippets
+	3）HBuildX（https://www.dcloud.io/hbuilderx.html）
 
 5、其他mac办公软件(破解版软件下载https://xclient.info/		本站所有dmg、zip 打开密码均为 xclient.info)
 	1）xmind
